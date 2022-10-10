@@ -1,6 +1,6 @@
 {
   "name": "su-watermark",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "全局添加水印，可防止人为删除",
   "main": "dist/index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "watermark"
   ],
   "author": "zhengchuangjun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CaniceZ/su-watermark"
+  },
   "license": "ISC",
   "devDependencies": {
     "ts-loader": "^9.4.1",
